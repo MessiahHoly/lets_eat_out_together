@@ -1,3 +1,7 @@
+# Let's Eat out together
+
+This is a web application for those who want to eat out but need some buddies to dine with them. You can find copmpany through this web application. 
+
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -5,7 +9,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 4
 
 * System dependencies
 
